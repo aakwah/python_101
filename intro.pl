@@ -2,6 +2,7 @@
 use 5.18.0;
 use warnings;
 
+ww
 my $x=44;
 say $x;
 $x+=100;
